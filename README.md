@@ -6,7 +6,7 @@ Recently one of my friends moved to the US from Germany. When she arrived here, 
 
 I wanted to be a niche and logical on my suggestion. So, I collected a dataset of American baby names since 1920 from the US Social Security Administration, which lists first names along with the number and sex of babies they were given to in each year. For processing speed purposes, I've limited the dataset to first names which were given to over 5,000 American babies in a given year. 
 
-The [dataset](/Users/macbookuser/Desktop/Data Analytics/SQL/usa_baby_names.csv) features year (year of baby name records), first_name (first names of the babies), sex (sex of the baby given that first name) and num (number of babies with a particular first name).
+The [dataset](https://drive.google.com/drive/u/0/folders/17gzNfF-zC2Yo7pUzwS2VFbPSell9SCvz) features year (year of baby name records), first_name (first names of the babies), sex (sex of the baby given that first name) and num (number of babies with a particular first name).
 
 My primes task were to find which female and male baby names were mostly used over the years in the United States, which boy names were mostly used and for low many years, which girl names ending in 'a' had been popular in the recent years. 
 
